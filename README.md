@@ -1,6 +1,6 @@
-# optimization
+## optimization
 
-In vectorization notebook you will see how vectorization speed up your code.
+# In vectorization notebook you will see how vectorization speed up your code.
 
 Explanation: Vectorization is basically the art of getting rid of explicit for loops in your code.
 We often find ourselves training on relatively large data sets, because that's the deep learning algorithms era.
