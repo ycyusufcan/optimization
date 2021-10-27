@@ -19,3 +19,6 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 The name of the algorithm comes from annealing in metallurgy, a technique involving heating and controlled cooling
 of a material to increase the size of its crystals and reduce their defects.
 
+## Tabu Search Algorithm
+
+![Tabu_search_flow_chart](https://user-images.githubusercontent.com/57789688/139123169-9311a11d-f29b-461c-a6e6-98497e698780.png)
